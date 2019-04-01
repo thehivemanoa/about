@@ -15,5 +15,14 @@ TheHive is a Meteor application providing ICS students of UH Manoa with a platfo
 
 This milestone started on April 1, 2019.
 
+The goal of milestone one was to create a set of mock html pages and decide on theming for the site.
+
 # Collaborators
+
+Jhun Domingo
+Vanessa Gerber
+Althea Pittman
+Morgan Stremick
+Conrad Wolfe
+
 
