@@ -6,7 +6,7 @@
 
 # About TheHive
 
-TheHive is a Meteor application providing students and tutors of UH Manoa with a platform to organize in person study groups around a course, helping users with specific course works and/or projects.
+TheHive is a Meteor application providing ICS students of UH Manoa with a platform to organize in person study groups around a course, helping users with specific courseworks and/or projects.
 
 # Development history
 
