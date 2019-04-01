@@ -2,7 +2,7 @@
 
 * [About The Hive](#about-thehive)
 * [Development history](#development-history)
-* [Collaborators] (#collaborators)
+* [Collaborators](#collaborators)
 
 # About TheHive
 
