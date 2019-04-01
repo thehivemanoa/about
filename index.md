@@ -19,7 +19,7 @@ The goal of milestone one was to create a set of mock html pages and decide on t
 
 # Collaborators
 
-Jhun Domingo  
+Jhun Domingo <br/>
 Vanessa Gerber  
 Althea Pittman  
 Morgan Stremick  
