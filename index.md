@@ -2,6 +2,7 @@
 
 * [About The Hive](#about-thehive)
 * [Development history](#development-history)
+  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
 * [Collaborators](#collaborators)
 
 # About TheHive
@@ -10,6 +11,9 @@ TheHive is a Meteor application providing ICS students of UH Manoa with a platfo
 
 # Development history
 
+## Milestone 1: Mockup development
+
+This milestone started on April 1, 2019.
 
 # Collaborators
 
