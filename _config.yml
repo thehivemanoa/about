@@ -1,1 +1,8 @@
+title: The Hive
+description: Connecting ICS students of UH Manoa with The Hive
+google_analytics: 
+show_downloads: false
 theme: jekyll-theme-tactile
+
+gems:
+- jekyll-mentions
