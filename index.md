@@ -23,10 +23,14 @@ The goal of milestone 1 is to create a set of mock pages and decide on theming f
 
 ## Collaborators
 
-Jhun Domingo
+Jhun Domingo  
+  
 Vanessa Gerber  
+  
 Althea Pittman  
+  
 Morgan Stremick  
+  
 Conrad Wolfe  
 
 
