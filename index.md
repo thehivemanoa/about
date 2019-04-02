@@ -7,19 +7,19 @@
 
 # About TheHive
 
-TheHive is a Meteor application providing ICS students of UH Manoa with a platform to organize in person study groups around a course, helping users with specific courseworks and/or projects.
+The Hive is a Meteor application that aims to provide ICS students of UH Manoa with a platform that allows them to easily organize in-person study groups for their classes, or help other students with coursework and projects.
 
 # Development history
 
 ## Milestone 1: Mockup development
 
-This milestone started on April 1, 2019.
+This milestone started on April 1, 2019 and is currently a work in progress.
 
-The goal of milestone one was to create a set of mock html pages and decide on theming for the site.
+The goal of milestone 1 is to create a set of mock pages and decide on theming for the site.
 
 # Collaborators
 
-Jhun Domingo <br/>
+Jhun Domingo
 Vanessa Gerber  
 Althea Pittman  
 Morgan Stremick  
