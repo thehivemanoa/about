@@ -1,3 +1,7 @@
+---
+title: The Hive
+---
+
 # Table of contents
 
 * [About The Hive](#about-thehive)
