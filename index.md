@@ -14,7 +14,7 @@ title: Waggle
 
 # About Waggle
 
-Waggle is a Meteor application that aims to provide ICS students of UH Manoa with a platform that allows them to easily organize in-person study groups for their classes, or help other students with coursework and projects.
+Waggle is a Meteor application that aims to provide ICS students of UH Manoa with a platform that allows them to easily organize in-person study groups for their classes, or help other students with coursework and projects. The name Waggle is a reference to the waggle dance that honey bees use to communicate the location of food to their fellow workers.
 
 ## Key Features
 
