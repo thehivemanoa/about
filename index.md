@@ -22,6 +22,8 @@ Waggle is a Meteor application that aims to provide ICS students of UH Manoa wit
 
 ### Landing Page
 
+![](images/landingmockup.PNG)
+
 ### User Profile Page
 
 ### Create Study Session
