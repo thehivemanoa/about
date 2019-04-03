@@ -28,19 +28,25 @@ Users who are logged out will find useful information about our app on the landi
 
 ### User Profile Page
 
+The user profile page is where users can view the study sessions that they have previously joined or created. Under the profile picture is the user’s level. In general, as the user attends more study sessions and is reviewed favorably by other users, the level will go up. Eventually, they will qualify as a sensei or royal bee depending on the theme.
+
 ![](images/userprofile_mockup.PNG)
 
 ### Create Study Session
+
+This page allows users to create new study sessions.
 
 ![](images/create_study_session_mockup.png)
 
 ### Calendar Page
 
-The calendar page is where users can view all of the study sessions that they have joined. On left users can scroll through a list of condensed descriptions of each session. If a user wishes to see more details they may click the “show more” button. If the user wishes to leave a study session, then they may click the Leave button. On the right, there is a calendar which displays each of the study sessions in color-coded blocks.
+The calendar page is where users can go to browse new sessions. On the right users can scroll through a list of condensed descriptions of each session. If a user wishes to see more details they may click the “show more” button. If the user wishes to join or leave a study session, then they may click the Join or Leave button. On the left, there is a calendar which displays each of the study sessions in color-coded blocks.
 
 ![](images/mockup-calendar-page.PNG)
 
 ### Admin Page
+
+Only admins can access the admin page, which is where they will recieve admin related notifications. Admins can also use this page to post global alerts and respond to user reports.
 
 ![](images/adminmockup.PNG)
 
