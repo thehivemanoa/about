@@ -30,7 +30,7 @@ Waggle is a Meteor application that aims to provide ICS students of UH Manoa wit
 
 ### Create Study Session
 
-![](images/create_study_session_mockup.PNG)
+![](images/create_study_session_mockup.png)
 
 ### Calendar Page
 
