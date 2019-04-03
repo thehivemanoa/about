@@ -18,6 +18,11 @@ Waggle is a Meteor application that aims to provide ICS students of UH Manoa wit
 
 ## Key Features
 
+* Create profile that lists all of ICS courses that have taken as well as those that you are currently taking
+* Schedule a new study session and send out notifications to intereseted users
+* Browse study sessions with the calendar page
+* Check your standing on the leaderboard
+
 # Guided Tour
 
 ### Landing Page
@@ -28,7 +33,7 @@ Users who are logged out will find useful information about our app on the landi
 
 ### User Profile Page
 
-The user profile page is where users can view the study sessions that they have previously joined or created. Under the profile picture is the user’s level. In general, as the user attends more study sessions and is reviewed favorably by other users, the level will go up. Eventually, they will qualify as a sensei or royal bee depending on the theme.
+The user profile page is where users can view the study sessions that they have previously joined or created.
 
 ![](images/userprofile_mockup.PNG)
 
