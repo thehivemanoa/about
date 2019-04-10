@@ -3,6 +3,7 @@ title: Waggle
 ---
 # [Project Page](http://waggleapp.meteorapp.com/#/)
 
+
 # Table of contents
 
 * [About Waggle](#about-waggle)
