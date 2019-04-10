@@ -1,7 +1,7 @@
 ---
 title: Waggle
 ---
-# [Project Page](http://waggleapp.meteorapp.com/#/)
+## View the live version of Waggle [here](http://waggleapp.meteorapp.com/#/)
 
 
 # Table of contents
