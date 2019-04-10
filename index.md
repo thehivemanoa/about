@@ -59,20 +59,10 @@ Only admins can access the admin page, which is where they will recieve admin re
 
 ## Milestone 1: Mockup development
 
-This milestone started on April 1, 2019 and is currently a work in progress.
+This milestone started on April 1, 2019 and was completed on April 10, 2019.
 
-The goal of milestone 1 is to create a set of mock pages and decide on theming for the site.
+The goal of milestone 1 was to create a set of mock pages and decide on theming for the site.
 
-## Collaborators
 
-Jhun Domingo  
-  
-Vanessa Gerber  
-  
-Althea Pittman  
-  
-Morgan Stremick  
-  
-Conrad Wolfe  
 
 
