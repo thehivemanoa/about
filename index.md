@@ -31,7 +31,7 @@ Users who are logged out will find useful information about our app on the landi
 
 ![](images/landing-1.PNG)
 
-![](images/landing-2.png)
+![](images/landing-2.PNG)
 
 ### User Profile Page
 
