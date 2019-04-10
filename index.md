@@ -29,7 +29,9 @@ Waggle is a Meteor application that aims to provide ICS students of UH Manoa wit
 
 Users who are logged out will find useful information about our app on the landing page. At this point, users are unable to access the key features of the app, but they do have the option to log in or register.
 
-![](images/landingmockup.PNG)
+![](images/landing-1.PNG)
+
+![](images/landing-2.png)
 
 ### User Profile Page
 
@@ -47,7 +49,7 @@ This page allows users to create new study sessions.
 
 The calendar page is where users can go to browse new sessions. On the right users can scroll through a list of condensed descriptions of each session. If a user wishes to see more details they may click the “show more” button. If the user wishes to join or leave a study session, then they may click the Join or Leave button. On the left, there is a calendar which displays each of the study sessions in color-coded blocks.
 
-![](images/mockup-calendar-page.PNG)
+![](images/calendar-1.PNG)
 
 ### Admin Page
 
