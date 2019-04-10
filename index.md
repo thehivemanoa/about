@@ -43,16 +43,13 @@ The user profile page is where users can view the study sessions that they have 
 
 This page allows users to create new study sessions.
 
-![](images/create_study_session_mockup.PNG)
+![](images/create_study_session_mockup.png)
 
 ### Calendar Page
 
-The calendar page is where users go to view the sessions that they have already joined. On the left is the actual calendar. By clicking on a date, the user may bring up a list of all the sessions that are scheduled for that day. Under each session is an option to show more. Clicking this button will display more information, including a description and a list of attendees. If a user so chooses they may leave a session by pressing the button located in the top right or any session card.
+The calendar page is where users can go to browse new sessions. On the right users can scroll through a list of condensed descriptions of each session. If a user wishes to see more details they may click the “show more” button. If the user wishes to join or leave a study session, then they may click the Join or Leave button. On the left, there is a calendar which displays each of the study sessions in color-coded blocks.
 
 ![](images/calendar-page-v1.PNG)
-
-### Search Page
-The search page is where users can browse sessions. There are options to filter by course, date, and time. On the left is where users will find the search results. This is where users can sort by title, course, date, time, and attendees. On the right of each row in the table is a button to easily leave or join a particular session.
 
 ![](images/search-page-v1.PNG)
 
@@ -68,8 +65,4 @@ Only admins can access the admin page, which is where they will recieve admin re
 
 This milestone started on April 1, 2019 and was completed on April 10, 2019.
 
-The goal of milestone 1 was to create a set of mock pages and decide on theming for the site.
-
-
-
-
+The goal of milestone 1 was to create a set of mock pages and decide on theming for the site. We had logos for the site made, and are looking into having a seperate logo made for our github organization.
