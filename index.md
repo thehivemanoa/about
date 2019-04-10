@@ -51,6 +51,9 @@ The calendar page is where users go to view the sessions that they have already 
 
 ![](images/calendar-page-v1.PNG)
 
+### Search Page
+The search page is where users can browse sessions. There are options to filter by course, date, and time. On the left is where users will find the search results. This is where users can sort by title, course, date, time, and attendees. On the right of each row in the table is a button to easily leave or join a particular session.
+
 ![](images/search-page-v1.PNG)
 
 ### Admin Page
