@@ -35,16 +35,21 @@ Users who are logged out will find useful information about our app on the landi
 
 ![](images/landing-2.PNG)
 
+### User Homepage
+
+When a user is logged in they are redirected to their homepage where they can view upcoming sessions and their courses.
+![](images/userhomepage-ss.PNG)
+
 ### User Profile Page
 
 The user profile page is where users can view the study sessions that they have previously joined or created.
 
-![](images/userprofile_mockup.PNG)
+![](images/userprofile-ss.PNG)
 
 ### Create Study Session
 
 This page allows users to create new study sessions.
-![](images/create_study_session_mockup.png)
+![](images/createsession-ss.png)
 
 ### Calendar Page
 
@@ -64,7 +69,7 @@ The search page is where users go to discover sessions. By manipultating various
 
 Only admins can access the admin page, which is where they will recieve admin related notifications. Admins can also use this page to post global alerts and respond to user reports.
 
-![](images/adminmockup.PNG)
+![](images/adminpage-ss.PNG)
 
 ## Development history
 
