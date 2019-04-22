@@ -51,9 +51,11 @@ This page allows users to create new study sessions.
 
 The calendar page is where users can go to browse new sessions. On the right users can scroll through a list of condensed descriptions of each session. If a user wishes to see more details they may click the “show more” button. If the user wishes to join or leave a study session, then they may click the Join or Leave button. On the left, there is a calendar which displays each of the study sessions in color-coded blocks.
 
-![](images/calendar-page-v1.PNG)
+![](images/calendar-page-v2.PNG)
 
-![](images/search-page-v1.PNG)
+![](images/search-page-top.PNG)
+
+![](images/search-page-bottom.PNG)
 
 ### Admin Page
 
