@@ -49,7 +49,7 @@ The user profile page is where users can view the study sessions that they have 
 ### Create Study Session
 
 This page allows users to create new study sessions.
-![](images/createsession-ss.png)
+![](images/createsession-ss.PNG)
 
 ### Calendar Page
 
