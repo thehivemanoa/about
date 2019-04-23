@@ -84,22 +84,24 @@ The goal of milestone 1 was to create a set of mockup pages and decide on themin
 
 <details><summary>Click to view screenshots of our original M1 mockups!</summary>
 <p>
-### Landing Page
+
+#### Landing Page
 ![](images/landingmockup.PNG)
 
-### User Profile Page
+#### User Profile Page
 ![](images/userprofile_mockup.PNG)
 
-### Create Study Session
+#### Create Study Session
 ![](images/create_study_session_mockup.png)
 
-### Calendar Page
+#### Calendar Page
 ![](images/mockup-calendar-page.PNG)
 
-### Admin Page
+#### Admin Page
 ![](images/adminmockup.PNG)
 </p>
 </details>
+<br/>
 
 ### Milestone 2: Functional Development
 
