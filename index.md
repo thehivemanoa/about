@@ -60,7 +60,7 @@ The calendar page is where users go to view the sessions that they have already 
 
 ### Search Page
 
-The search page is where users go to discover sessions. By manipultating various filters and sort options the user can control which results are displayed and how. On the right are the search results. Each result contains information about the title, course, time, and attenbees. If the user wants to more about a session, they may click the plus button in the bottom right which makes the session card expand to reveal a description and a list of the attendees. The user may leave or join a session by clicking the button in the top right of each result.
+The search page is where users go to discover sessions. By manipultating various filters and sort options the user can control which results are displayed and how. On the right are the search results. Each result contains information about the title, course, time, and attenbees. If the user wants to know more about a session, they may click the plus button in the bottom right which makes the session card expand to reveal a description and a list of the attendees. The user may leave or join a session by clicking the button in the top right of each result.
 
 ![](images/search-page-top.PNG)
 
