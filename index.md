@@ -103,7 +103,6 @@ The goal of milestone 1 was to create a set of mockup pages and decide on themin
 <details>
 <summary>Click to view screenshots of our original M1 mockups!</summary>
 
-<p>
 #### Landing Page
 ![](images/landingmockup.PNG)
 
@@ -119,7 +118,6 @@ The goal of milestone 1 was to create a set of mockup pages and decide on themin
 #### Admin Page
 ![](images/adminmockup.PNG)
 
-</p>
 </details>
 
 <br/>
