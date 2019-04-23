@@ -72,6 +72,24 @@ Only admins can access the admin page, which is where they will recieve admin re
 
 ![](images/adminpage-ss.PNG)
 
+## Developer Guide
+
+#### Installation Instructions
+
+1. Install [Meteor](https://www.meteor.com/install).
+
+2. Download a copy of the [Waggle App](https://github.com/thehivemanoa/waggleapp) from our GitHub Repo. You may clone it using git.
+
+3. In your terminal, cd into the app/ directory of your Waggle Application and install the necessary npm libraries by running the following command:
+
+``` $ meteor npm install ```
+
+4. Run the app with the following command:
+
+``` $ meteor npm run start ```
+
+The app should now be available at [http://localhost:3000](http://localhost:3000).
+
 ## Development history
 
 ### Milestone 1: Mockup Development
