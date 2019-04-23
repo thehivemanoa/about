@@ -9,10 +9,11 @@ title: Waggle
 * [About Waggle](#about-waggle)
   * [Key Features](#key-features)
   * [Guided Tour](#guided-tour)
-* [Development history](#development-history)
-  * [Milestone 1: Mockup development](#milestone-1-mockup-development)
-*
-* [Collaborators](#collaborators)
+* [Developer Guide (Install)](#developer-guide)
+* [Development History](#development-history)
+  * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
+  * [Milestone 2: Functional Development](#milestone-2-functional-development)
+  * [Milestone 3: Finalizing Development](#milestone-3-finalizing-development)
 
 # About Waggle
 
@@ -73,11 +74,13 @@ Only admins can access the admin page, which is where they will recieve admin re
 
 ## Development history
 
-## Milestone 1: Mockup development
+### Milestone 1: Mockup Development
+
+M1 Project Page avialable [here](https://github.com/thehivemanoa/waggleapp/projects/1)
 
 This milestone started on April 1, 2019 and was completed on April 10, 2019.
 
-The goal of milestone 1 was to create a set of mockup pages and decide on theming for the site. We had logos for the site made, and are looking into having a seperate logo made for our github organization.
+The goal of milestone 1 was to create a set of mockup pages and decide on theming for the site. We developed webpages with minimal functionality, focusing on layout to accomodate features we plan to implement in future developments. We also had logos for the site made, and are looking into having a seperate logo made for our github organization.
 
 <details><summary>Click to view screenshots of our original M1 mockups!</summary>
 
@@ -97,3 +100,24 @@ The goal of milestone 1 was to create a set of mockup pages and decide on themin
 ![](images/adminmockup.PNG)
 
 </details>
+
+### Milestone 2: Functional Development
+
+M2 Project Page avialable [here](https://github.com/thehivemanoa/waggleapp/projects/2)
+
+This milestone started on April 10, 2019 and was completed on April 22, 2019.
+
+The goal of milestone 2 was to improve the functionality of Waggle beyond M1. M2 has a functional calendar, search, edit profile, view upcomming sessions, and create sessions features. The functionality of these features required sufficient backend development of special APIs such as courses, sessions, and accounts.
+
+Some UI improvements were also made to improve the quality of M1. For example, session cards display more information with view more options, search page displays more condensed card results, navbar items collapse under dropdown at certain width, and the profile page components are navigated through a side menu.
+
+### Milestone 3: Finzalizing Development
+
+M2 Project Page avialable [here](https://github.com/thehivemanoa/waggleapp/projects/2)
+
+** CURRENTLY IN PROGRESS **
+
+This milestone was started on April 22, 2019.
+
+The goal of milestone 3 is to finalize the functionality of M2 features as well as additional functionality to the app.
+We will also gather community feedback on our app by having at least 5 UH community members test the app out.
