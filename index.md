@@ -83,7 +83,7 @@ This milestone started on April 1, 2019 and was completed on April 10, 2019.
 The goal of milestone 1 was to create a set of mockup pages and decide on theming for the site. We developed webpages with minimal functionality, focusing on layout to accomodate features we plan to implement in future developments. We also had logos for the site made, and are looking into having a seperate logo made for our github organization.
 
 <details><summary>Click to view screenshots of our original M1 mockups!</summary>
-
+<p>
 ### Landing Page
 ![](images/landingmockup.PNG)
 
@@ -98,7 +98,7 @@ The goal of milestone 1 was to create a set of mockup pages and decide on themin
 
 ### Admin Page
 ![](images/adminmockup.PNG)
-
+</p>
 </details>
 
 ### Milestone 2: Functional Development
