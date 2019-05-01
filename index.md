@@ -45,7 +45,8 @@ When a user is logged in they are redirected to their homepage where they can vi
 
 The user profile page is where users can view the study sessions that they have previously joined or created.
 
-![](images/m3_userprofile.PNG)
+![](images/m3_profilecourses.PNG)
+![](images/m3_profileedit.PNG)
 
 ### Create Study Session
 
