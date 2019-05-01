@@ -41,6 +41,11 @@ Users who are logged out will find useful information about our app on the landi
 When a user is logged in they are redirected to their homepage where they can view upcoming sessions and their courses.
 ![](images/m3_userhomepage.PNG)
 
+Here you can also collect and distribute honey from sessions you have attended!
+![](images/m3_collecthoney.PNG)
+![](images/processing-honey.PNG)
+![](images/distribute-honey.PNG)
+
 ### User Profile Page
 
 The user profile page is where users can view the study sessions that they have previously joined or created.
