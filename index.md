@@ -43,8 +43,8 @@ When a user is logged in they are redirected to their homepage where they can vi
 
 Here you can also collect and distribute honey from sessions you have attended!
 ![](images/m3_collecthoney.PNG)
-![](images/processing-honey.PNG)
-![](images/distribute-honey.PNG)
+![](images/processing-honey.png)
+![](images/distribute-honey.png)
 
 ### User Profile Page
 
