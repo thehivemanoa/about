@@ -32,9 +32,9 @@ Waggle is a Meteor application that aims to provide ICS students of UH Manoa wit
 
 Users who are logged out will find useful information about our app on the landing page. At this point, users are unable to access the key features of the app, but they do have the option to log in or register.
 
-![](images/m3_landing1.PNG)
+![](images/m3_landing1.png)
 
-![](images/m3_landing2.PNG)
+![](images/m3_landing2.png)
 
 ### User Homepage
 
@@ -68,7 +68,7 @@ The search page is where users go to discover sessions. By manipultating various
 
 Only admins can access the admin page, which is where they will recieve admin related notifications. Admins can also use this page to post global alerts and respond to user reports.
 
-![](images/m3_admin.PNG)
+![](images/m3_admin.png)
 
 ### Leaderboard Page
 
