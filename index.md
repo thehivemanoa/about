@@ -14,7 +14,7 @@ title: Waggle
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
   * [Milestone 2: Functional Development](#milestone-2-functional-development)
   * [Milestone 3: Finalizing Development](#milestone-3-finalizing-development)
-* [Developer Guide (Install)](#community-feedback)
+* [Community Feedback)](#community-feedback)
 
 # About Waggle
 
