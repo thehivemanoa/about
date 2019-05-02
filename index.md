@@ -41,10 +41,16 @@ Users who are logged out will find useful information about our app on the landi
 When a user is logged in they are redirected to their homepage where they can view upcoming sessions and their courses.
 ![](images/m3_userhomepage.PNG)
 
-Here you can also collect and distribute honey from sessions you have attended!
-![](images/m3_collecthoney.PNG)
-![](images/processing-honey.png)
-![](images/distribute-honey.png)
+### Honey
+
+From the user home page, the user can view all completed session. After the end time for a joined sessions has passed, a completed session card will appear under the completed sessions header. Initially it will a display a button, which reads "Distribute" prompting the user to distribute honey to the other attenbees based on how helpful they were during the session. Users can distribute a maximum of 6 honey per session, but may distribute less if they decide to.
+![](images/distribute-honey.PNG)
+
+After the user has distributed their honey, the session card will display a button which reads "Processing". Clicking it will display two progress bars, one for the number of respondents and another for the time elapsed since the end of the session, taken out of 24 hours. The honey is done "processing" once 24 hours have elapsed since the end of the session or all of the attenbees have responded.
+![](images/processing-honey.PNG)
+
+Once the honey is done processing, the session card will display a button reading "Collect". Clicking this button will display the amount of honey that the user has earned from the session. Since the only way for users to earn honey is by recieving it from another user, it is paramount that users have an incentive to distribute. Therefore, if the user did not distribute honey in time, they will recieve 0 honey in return.
+![](images/distribute-honey.PNG)
 
 ### User Profile Page
 
