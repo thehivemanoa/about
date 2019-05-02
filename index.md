@@ -51,7 +51,7 @@ After the user has distributed their honey, the session card will display a butt
 ![](images/processing-honey.PNG)
 
 ### Collect Honey
-Once the honey is done processing, the session card will display a button reading "Collect". Clicking this button will display the amount of honey that the user has earned from the session. Since the only way for users to earn honey is by recieving it from another user, it is paramount that users have an incentive to distribute. Therefore, if the user did not distribute honey in time, they will recieve 0 honey in return.
+Once the honey is done processing, the session card will display a button reading "Collect". Clicking this button will display the amount of honey that the user has earned from the session. Since the only way for users to earn honey is by recieving it from another user, it is paramount that users have an incentive to distribute. Therefore, if the user did not distribute honey in time, they will recieve 0 honey in return. Right now, the honey is being added to the user's exp.
 ![](images/collect-honey.PNG)
 
 ### User Profile Page
