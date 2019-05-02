@@ -206,7 +206,7 @@ See the current guided tour for screenshots from M3.
 As part of M3 we shared our app with some students to provide feedback. Here is the responses we gathered:
 
 #### Pros
-- Site has nice layour
+- Site has nice layout
 - Easy to navigate
 - Overall very user friendly
 - Lot of functionality
