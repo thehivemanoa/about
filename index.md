@@ -14,6 +14,7 @@ title: Waggle
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
   * [Milestone 2: Functional Development](#milestone-2-functional-development)
   * [Milestone 3: Finalizing Development](#milestone-3-finalizing-development)
+* [Developer Guide (Install)](#community-feedback)
 
 # About Waggle
 
@@ -201,3 +202,11 @@ Some UI improvements were also made to improve the quality of Waggle. There is n
 
 See the current guided tour for screenshots from M3.
 
+### Community Feedback
+As part of M3 we shared our app with some students to provide feedback. Here is the responses we gathered:
+
+#### Pros
+
+#### Cons
+
+We appreciate the feedback and will be sure take these comments into consideration to improve Waggle in future updates!
