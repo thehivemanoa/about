@@ -210,9 +210,11 @@ As part of M3 we shared our app with some students to provide feedback. Here is 
 - Easy to navigate
 - Overall very user friendly
 - Lot of functionality
+- Love the puns
 
 #### Cons
 - Hard to put sessions (date is weird)
 - Footer could look better
+- Could have more courses
 
 We appreciate the feedback and will be sure take these comments into consideration to improve Waggle in future updates!
